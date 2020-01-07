@@ -17,46 +17,7 @@
 Example:   ```<p style={{color:"blue"}}>text</p>```
   
 ### Style jsx tag
-**Block scope**
-Example: 
-    ```<style jsx>{\`
-    h1, a {
-    font-family: "Arial";
-    }
-    a {
-     text-decoration: none;
-     color: blue;
-    }
-    
-    a:hover {
-    opacity: 0.6;
-    \`}
-</style> ```
-
-**Global scope**
-Example:  
-```
-             <style jsx global>{\`
-        .markdown {
-          font-family: 'Arial';
-        }
-
-        .markdown a {
-          text-decoration: none;
-          color: blue;
-        }
-
-        .markdown a:hover {
-          opacity: 0.6;
-        }
-
-        .markdown h3 {
-          margin: 0;
-          padding: 0;
-          text-transform: uppercase;
-        }
-      \`}
-      </style>
-```
+**Block and Global Scope**
+[Link](https://nextjs.org/learn/basics/styling-components/styling-our-home-page)
 
 
