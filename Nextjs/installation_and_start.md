@@ -18,24 +18,25 @@ Example:   ```<p style={{color:"blue"}}>text</p>```
   
 ### Style jsx tag
 **Block scope**
-Example: ```
-          <style jsx>
-  h1, a {
+Example: 
+    ```<style jsx>{\`
+    h1, a {
     font-family: "Arial";
-  }
-  a {
-    text-decoration: none;
-    color: blue;
-  }
-
-  a:hover {
+    }
+    a {
+     text-decoration: none;
+     color: blue;
+    }
+    
+    a:hover {
     opacity: 0.6;
-  }
+    \`}
 </style> ```
 
 **Global scope**
-Example:  ```
-             <style jsx global>{`
+Example:  
+```
+             <style jsx global>{\`
         .markdown {
           font-family: 'Arial';
         }
@@ -54,7 +55,8 @@ Example:  ```
           padding: 0;
           text-transform: uppercase;
         }
-      `}
-      </style>```
+      \`}
+      </style>
+```
 
- 
+
