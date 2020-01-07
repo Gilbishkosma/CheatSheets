@@ -3,3 +3,7 @@
 
 [MakeStyles](https://material-ui.com/styles/basics/#installation)
 
+#### Theme
+
+Main parts of [Theme](https://material-ui.com/customization/palette/)
+
