@@ -3,7 +3,7 @@
 ## Start the Project
 
 ### if npm
-npm run dev
+```npm run dev```
 
 ### if yarn
-yarn dev
+```yarn dev```
