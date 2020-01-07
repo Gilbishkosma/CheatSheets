@@ -7,4 +7,4 @@
 ```yarn dev```
 
 ## Create a nextjs project with material UI
-Link: Next js with [ Material UI ](https://github.com/mui-org/material-ui/tree/master/examples/nextjs)
+[ Material UI ](https://github.com/mui-org/material-ui/tree/master/examples/nextjs) <- Instructions are written in this repo.
