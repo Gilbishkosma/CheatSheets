@@ -5,5 +5,5 @@
 
 #### Theme
 
-Main parts of [Theme](https://material-ui.com/customization/palette/)
+Main parts of [Theme](https://material-ui.com/customization/theming/)
 
